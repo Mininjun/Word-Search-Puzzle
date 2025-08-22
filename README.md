@@ -1,2 +1,2 @@
 # Word-Search-Puzzle
-This gobe be a Word Puzzle Leraning science with fun for your children.
+This is going to be a Word Puzzle Learning science with fun for your children.
